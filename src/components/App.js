@@ -1,5 +1,4 @@
 import React, { Component, useState } from "react";
-import './App.css';
 import Heading From './Heading.js';
 import InputQuery From './InputQuery.js';
 import SubHeading From './SubHeading.js';
